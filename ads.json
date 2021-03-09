@@ -3,7 +3,7 @@
 
 		"AdsController": {
 			
-			"NetworkAds": "admobb",
+			"NetworkAds": "admob",
 			
 			"OpenAdsAdmob": "ca-app-pub-3940256099942544/3419835294",
 			
