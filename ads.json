@@ -3,40 +3,40 @@
 
 		"AdsController": {
 			
-			"NetworkAds": "facebook",
+			"NetworkAds0": "facebook",
 			
-			"OpenAdsAdmob": "ca-app-pub-3940256099942544/3419835294",
+			"OpenAdsAdmob0": "ca-app-pub-3940256099942544/3419835294",
 			
-			"BannerAdmob1": "ca-app-pub-3940256099942544/6300978111",
-			"BannerAdmob2": "ca-app-pub-3940256099942544/6300978111",
+			"BannerAdmob10": "ca-app-pub-3940256099942544/6300978111",
+			"BannerAdmob20": "ca-app-pub-3940256099942544/6300978111",
 			
-			"InterstitialAdmob1": "ca-app-pub-3940256099942544/1033173712",
-			"InterstitialAdmob2": "ca-app-pub-3940256099942544/1033173712",
-			"InterstitialAdmob3": "ca-app-pub-3940256099942544/1033173712",
-			"InterstitialAdmob4": "ca-app-pub-3940256099942544/1033173712",
-			"InterstitialAdmob5": "ca-app-pub-3940256099942544/1033173712",
-			"InterstitialAdmob6": "ca-app-pub-3940256099942544/1033173712",
-			"InterstitialAdmob7": "ca-app-pub-3940256099942544/1033173712",
-			"InterstitialAdmob8": "ca-app-pub-3940256099942544/1033173712",
-			"InterstitialAdmob9": "ca-app-pub-3940256099942544/1033173712",
 			"InterstitialAdmob10": "ca-app-pub-3940256099942544/1033173712",
+			"InterstitialAdmob20": "ca-app-pub-3940256099942544/1033173712",
+			"InterstitialAdmob30": "ca-app-pub-3940256099942544/1033173712",
+			"InterstitialAdmob40": "ca-app-pub-3940256099942544/1033173712",
+			"InterstitialAdmob50": "ca-app-pub-3940256099942544/1033173712",
+			"InterstitialAdmob60": "ca-app-pub-3940256099942544/1033173712",
+			"InterstitialAdmob70": "ca-app-pub-3940256099942544/1033173712",
+			"InterstitialAdmob80": "ca-app-pub-3940256099942544/1033173712",
+			"InterstitialAdmob90": "ca-app-pub-3940256099942544/1033173712",
+			"InterstitialAdmob100": "ca-app-pub-3940256099942544/1033173712",
 			
 			
-			"BannerFacebook1": "203828667610254_398033171523135",
-			"BannerFacebook2": "203828667610254_398033171523135",
+			"BannerFacebook10": "203828667610254_398033171523135",
+			"BannerFacebook20": "203828667610254_398033171523135",
 			
-			"InterstitialFacebook1": "812630279191287_812632279191087",
-			"InterstitialFacebook2": "812630279191287_812632279191087",
-			"InterstitialFacebook3": "490273838476642_490274721809887",
-			"InterstitialFacebook4": "490273838476642_490274721809887",
-			"InterstitialFacebook5": "812630279191287_1182619978858980",
+			"InterstitialFacebook10": "812630279191287_812632279191087",
+			"InterstitialFacebook20": "812630279191287_812632279191087",
+			"InterstitialFacebook30": "490273838476642_490274721809887",
+			"InterstitialFacebook40": "490273838476642_490274721809887",
+			"InterstitialFacebook50": "812630279191287_1182619978858980",
 			
 				
-			"Cpa": true,
+			"Cpa": false,
 			"ImageUrl": "https://i.imgur.com/oWEjQGy.gif", 
 			"LinkCpa" : "http://sweeps-everyday.com/Netflix00/",
-			"watchNow": true,
-			"Rating": true
+			"watchNow": false,
+			"Rating": false
 			
 		}
 
