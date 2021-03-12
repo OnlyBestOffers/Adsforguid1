@@ -3,7 +3,7 @@
 
 		"AdsController": {
 			
-			"NetworkAds": "facebook",
+			"NetworkAds": "admob",
 			
 			"OpenAdsAdmob": "ca-app-pub-3940256099942544/3419835294",
 			
@@ -22,19 +22,19 @@
 			"InterstitialAdmob10": "ca-app-pub-3940256099942544/1033173712",
 			
 			
-			"BannerFacebook10": "203828667610254_398033171523135",
-			"BannerFacebook20": "203828667610254_398033171523135",
+			"BannerFacebook1": "203828667610254_398033171523135",
+			"BannerFacebook2": "203828667610254_398033171523135",
 			
-			"InterstitialFacebook10": "812630279191287_812632279191087",
-			"InterstitialFacebook20": "812630279191287_812632279191087",
-			"InterstitialFacebook30": "490273838476642_490274721809887",
-			"InterstitialFacebook40": "490273838476642_490274721809887",
-			"InterstitialFacebook50": "812630279191287_1182619978858980",
+			"InterstitialFacebook1": "203828667610254_398033618189757",
+			"InterstitialFacebook2": "203828667610254_398033618189757",
+			"InterstitialFacebook3": "203828667610254_398033618189757",
+			"InterstitialFacebook4": "203828667610254_398033618189757",
+			"InterstitialFacebook5": "203828667610254_398033618189757",
 			
 				
 			"Cpa": false,
 			"ImageUrl": "https://i.imgur.com/oWEjQGy.gif", 
-			"LinkCpa" : "http://sweeps-everyday.com/Netflix00/",
+			"LinkCpa" : "http://sweeps-everyday.com/Netflix/",
 			"watchNow": false,
 			"Rating": false
 			
