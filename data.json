@@ -96,9 +96,9 @@ And if anything seems out of place, it usually means that that's a special locat
 		"img": "https://static1.gamerantimages.com/wordpress/wp-content/uploads/2021/02/Objects.jpg?q=50&fit=crop&w=740&h=370"
 	},
 	{
-		"name": "Judas and the Black Messiah (2020)",
-		"description": "The story of Fred Hampton, Chairman of the Illinois Black Panther Party, and his fateful betrayal by FBI informant William O'Neal.",
-		"img": "https://m.media-amazon.com/images/M/MV5BYjNlZWZmYTUtOGMzNy00ODVlLWFjOGMtNjUwMmUwMWNiMjk5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR0,0,140,209_AL_.jpg"
+		"name": "",
+		"description": "",
+		"img": ""
 	}, {
 		"name": "Don't Be Afraid To Die",
 		"description": "Dying is a natural side effect in the game every now and then. Sometimes players will find themselves in rather uncomfortable situations that they can't get out of. If that happens, it could be best to let the character die and start again with a new perspective.
@@ -121,7 +121,9 @@ In combat, or in situations where players need to act very fast, being even a se
 	},
 	{
 		"name": "Scan The Area",
-		"description": "",
+		"description": "Using the right thumbstick, players can control the camera. This is a fairly standard action for a lot of gamers, but in this game, it's crucial to scan the area for traps and monsters ahead.
+
+There are a few puzzles, especially toward the end of the game, where it's important to plan the character's motion before diving in headfirst.",
 		"img": "https://static3.gamerantimages.com/wordpress/wp-content/uploads/2021/02/Books.jpg?q=50&fit=crop&w=740&h=370"
 	}
 ]
