@@ -5,21 +5,21 @@
 			
 			"NetworkAds": "admob",
 			
-			"OpenAdsAdmob": "ca-app-pub-3940256099942544/3419835294",
+			"OpenAdsAdmob": "",
 			
-			"BannerAdmob1": "ca-app-pub-3940256099942544/6300978111",
-			"BannerAdmob2": "ca-app-pub-3940256099942544/6300978111",
+			"BannerAdmob1": "",
+			"BannerAdmob2": "",
 			
-			"InterstitialAdmob1": "ca-app-pub-3940256099942544/1033173712",
-			"InterstitialAdmob2": "ca-app-pub-3940256099942544/1033173712",
-			"InterstitialAdmob3": "ca-app-pub-3940256099942544/1033173712",
-			"InterstitialAdmob4": "ca-app-pub-3940256099942544/1033173712",
-			"InterstitialAdmob5": "ca-app-pub-3940256099942544/1033173712",
-			"InterstitialAdmob6": "ca-app-pub-3940256099942544/1033173712",
-			"InterstitialAdmob7": "ca-app-pub-3940256099942544/1033173712",
-			"InterstitialAdmob8": "ca-app-pub-3940256099942544/1033173712",
-			"InterstitialAdmob9": "ca-app-pub-3940256099942544/1033173712",
-			"InterstitialAdmob10": "ca-app-pub-3940256099942544/1033173712",
+			"InterstitialAdmob1": "",
+			"InterstitialAdmob2": "",
+			"InterstitialAdmob3": "",
+			"InterstitialAdmob4": "",
+			"InterstitialAdmob5": "",
+			"InterstitialAdmob6": "",
+			"InterstitialAdmob7": "",
+			"InterstitialAdmob8": "",
+			"InterstitialAdmob9": "",
+			"InterstitialAdmob10": "",
 			
 			
 			"BannerFacebook1": "203828667610254_398033171523135",
